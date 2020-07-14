@@ -1,5 +1,5 @@
 # My portfolio
-#### This application has a landing page of an image that describes me,I love to connect with nature.It also shows my current progess in learning HTML and CSS.  {12/07/2020}
+This application has a landing page of an image that describes me,I love to connect with nature.It also shows my current progess in learning HTML and CSS. Here is my [website](https://angie325.github.io/grit/) {12/07/2020} 
 #### By **Angela Apondi**
 ## Description
 
